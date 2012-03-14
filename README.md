@@ -61,4 +61,4 @@ Resources
 Stage3D Examples
 ----------------
 
-[epic CITADEL](http://www.unrealengine.com/flash/)
+[Epic Citadel](http://www.unrealengine.com/flash/)
