@@ -17,7 +17,7 @@ The example itself shows how to use the [Nape](http://deltaluca.me.uk/) physics 
 Why?
 ----
 
-The AIR SDK is dependent on the Flex SDK for the compiler. If you want to compile an AIR app, then you require Flex. If you want to use the AIR SDK in [Flash Builder](http://adobe.com/go/flashbuilder) then you need to manually merge the AIR SDK with the Flex SDK.
+The AIR SDK is dependent on the Flex SDK for the compiler. If you want to compile an AIR app, then you require Flex. If you want to use a new version of the AIR SDK in [Flash Builder](http://adobe.com/go/flashbuilder) then you need to manually merge the AIR SDK with the Flex SDK.
 
 As a developer looking at this code for the first time I want to make it as easy as possible for you to read the code and run it.
 
@@ -29,7 +29,7 @@ Assuming you have Git [installed](http://git-scm.com/), you can clone the repo a
 
 	git clone git@github.com:p15martin/starling-nape.git
 
-[Install](https://github.com/p15martin/air-sdk-3_2) the AIR 3.2 SDK in Flash Builder.
+[Install](https://github.com/p15martin/air-sdk-3_2) the AIR 3.2 SDK in Flash Builder
 
 Import the project (**File > Import > General > Existing Projects into Workspace**)
 
