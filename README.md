@@ -37,11 +37,13 @@ Import the project (**File > Import > General > Existing Projects into Workspace
 Things to note
 --------------
 
-This is an ActionScript Mobile Project and uses the [SWF metadata tag](http://adobe.ly/xjPzbz) to specify the attributes of the application.
+This is an ActionScript Mobile Project, which uses the [SWF metadata tag](http://adobe.ly/xjPzbz) to specify the attributes of the application.
 
 I am using [Hi-Res Stats](https://github.com/mrdoob/Hi-ReS-Stats) to provide performance stats such as the frames per second.
 
-The application descriptor (**StarlingNape-app**) sets the render mode to **direct**: <renderMode>direct</renderMode>
+The application descriptor (**StarlingNape-app**) sets the render mode to **direct**:
+
+	<renderMode>direct</renderMode>
 
 The render mode enables Stage3D and GPU acceleration, if it's not set then you get a runtime exception saying, "Context 3D not available". Starling shows a message saying, "This application is not correctly embedded (wrong wmode value)".
 
