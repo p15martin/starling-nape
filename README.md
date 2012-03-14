@@ -45,7 +45,7 @@ The application descriptor (**StarlingNape-app**) sets the render mode to **dire
 
 	<renderMode>direct</renderMode>
 
-The render mode enables Stage3D and GPU acceleration, if it's not set then you get a runtime exception saying, "Context 3D not available". Starling shows a message saying, "This application is not correctly embedded (wrong wmode value)".
+The render mode enables Stage3D and GPU acceleration, if it's not set then you get a runtime exception saying, "Context 3D not available". Starling overlays this with its own message saying, "This application is not correctly embedded (wrong wmode value)".
 
 If you are running in the browser, then set **wmode="direct"** in the HTML wrapper.
 
