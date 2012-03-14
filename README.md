@@ -37,7 +37,9 @@ Import the project (**File > Import > General > Existing Projects into Workspace
 Things to note
 --------------
 
-The games is using [Hi-Res Stats](https://github.com/mrdoob/Hi-ReS-Stats) to provide performance stats such as the frames per second.
+This is an ActionScript Mobile Project and uses the [SWF metadata tag](http://adobe.ly/xjPzbz) to specify the attributes of the application.
+
+I am using [Hi-Res Stats](https://github.com/mrdoob/Hi-ReS-Stats) to provide performance stats such as the frames per second.
 
 The application descriptor (**StarlingNape-app**) sets the render mode to **direct**: <renderMode>direct</renderMode>
 
