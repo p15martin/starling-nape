@@ -25,13 +25,13 @@ As a developer looking at this code for the first time I want to make it as easy
 Getting started
 ---------------
 
-* Assuming you have Git [installed](http://git-scm.com/), you can clone the repo as follows:
+Assuming you have Git [installed](http://git-scm.com/), you can clone the repo as follows:
 
-	**git clone git@github.com:p15martin/starling-nape.git**
+	git clone git@github.com:p15martin/starling-nape.git
 
-* [Install](https://github.com/p15martin/air-sdk-3_2) the AIR 3.2 SDK in Flash Builder.
+[Install](https://github.com/p15martin/air-sdk-3_2) the AIR 3.2 SDK in Flash Builder.
 
-* Import the project (**File > Import > General > Existing Projects into Workspace**)
+Import the project (**File > Import > General > Existing Projects into Workspace**)
 
 
 Things to note
